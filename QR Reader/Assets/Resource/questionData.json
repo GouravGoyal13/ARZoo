@@ -1,0 +1,22 @@
+{
+  "Items": [
+    {
+      "Id": "Quest_01",
+      "Question": "Who is the first president of india?",
+      "OptionA": "Rajendra Prasad",
+      "OptionB": "Zakir Husain",
+      "OptionC": "V V Giri",
+      "OptionD": "S Radhakrishnan",
+      "Answer": "OptionA"
+    },
+    {
+      "Id": "Quest_02",
+      "Question": "The ratio of width of our National flag to its length is?",
+      "OptionA": "3:5",
+      "OptionB": "2:4",
+      "OptionC": "2:3",
+      "OptionD": "3:4",
+      "Answer": "OptionC"
+    }
+  ]
+}

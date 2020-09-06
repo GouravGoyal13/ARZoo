@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<LevelData>
+	<Row>
+		<levelID>1</levelID>
+		<levelFinishTimeInSeconds>5</levelFinishTimeInSeconds>
+		<levelCategory>Easy</levelCategory>
+		<rowSize>3</rowSize>
+		<columnSize>3</columnSize>
+		<playData>1,4,2,8,6</playData>
+		<delayBetweenMoves>0.5</delayBetweenMoves>
+	</Row>
+	<Row>
+		<levelID>2</levelID>
+		<levelFinishTimeInSeconds>8</levelFinishTimeInSeconds>
+		<levelCategory>Easy</levelCategory>
+		<rowSize>3</rowSize>
+		<columnSize>3</columnSize>
+		<playData>9,4,7,8,3,1</playData>
+		<delayBetweenMoves>0.5</delayBetweenMoves>
+	</Row>
+</LevelData>

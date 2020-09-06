@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: a5f893ea22d084ef8932930bbdf39fca
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - wallTile: {fileID: 5695762049814027769, guid: 9d7c90c60069f41b9a17cc79ca296cf8,
+      type: 3}
+  - walkTile: {fileID: 6735181863084588472, guid: 12e7bf6a1a82e47a7aaf7354ba6e9188,
+      type: 3}
+  - boxTile: {fileID: 5345904553196174877, guid: 740ff3768b11c4e7d8b1884d014b8f85,
+      type: 3}
+  - levelContainer: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
